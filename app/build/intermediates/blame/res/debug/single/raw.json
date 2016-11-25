@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\as_project\\OkHttpDemo\\app\\build\\intermediates\\res\\merged\\debug\\raw\\a213679301700631.pem",
+        "source": "F:\\as_project\\OkHttpDemo\\app\\src\\main\\res\\raw\\a213679301700631.pem"
+    },
+    {
+        "merged": "F:\\as_project\\OkHttpDemo\\app\\build\\intermediates\\res\\merged\\debug\\raw\\vpclub.cer",
+        "source": "F:\\as_project\\OkHttpDemo\\app\\src\\main\\res\\raw\\vpclub.cer"
+    },
+    {
+        "merged": "F:\\as_project\\OkHttpDemo\\app\\build\\intermediates\\res\\merged\\debug\\raw\\b213679301700631.pfx",
+        "source": "F:\\as_project\\OkHttpDemo\\app\\src\\main\\res\\raw\\b213679301700631.pfx"
+    }
+]
